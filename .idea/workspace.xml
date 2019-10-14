@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff605b84-416e-4a6f-b438-5d6bfd463dc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Experiment_03/animal/mammal/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Experiment_03/animal/mammal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Experiment_03/animal/mammal/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Experiment_03/animal/mammal/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Experiment_03/animal/mammal/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Experiment_03/animal/mammal/pet/pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Experiment_03/animal/mammal/pet/petCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Experiment_03/animal/mammal/pet/petDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_05_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_05_01/sources/class1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_05_01/sources/class2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_05_01/sources/class3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_05_01/sources/class4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_05_02/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_05_02/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_06_01/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_06_01/MyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_06_01/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_06_01/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_06_02/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment_06_02/MyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/First/Experiment_01_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/Experiment_01_1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/First/Experiment_01_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/Experiment_01_2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/First/Experiment_02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/Experiment_02/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/First/Experiment_04/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/Experiment_04/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Experiment_04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Experiment_04/Main.java" afterDir="false" />
     </list>
@@ -22,9 +29,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="First" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML4 File" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -32,9 +44,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1QuKwSdHKKqU0qdSGFPHrjEAEPz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -42,16 +61,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Experiment_05_02" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\First\src\Experiment_05_02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\First\out\production\First" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -65,13 +94,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main(3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Experiment_01_2.Main" />
+  <component name="RunManager" selected="Application.MyClient">
+    <configuration name="HelloWorld" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiment_05_02.HelloWorld" />
+      <module name="First" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiment_06_02.MyClient" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Experiment_01_2.*" />
+          <option name="PATTERN" value="Experiment_06_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Experiment_02.Main" />
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiment_06_02.MyServer" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Experiment_02.*" />
+          <option name="PATTERN" value="Experiment_06_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Experiment_01_1.Main" />
+    <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiment_06_01.Number" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Experiment_01_1.*" />
+          <option name="PATTERN" value="Experiment_06_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,13 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main(3)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Experiment_04.Main" />
+    <configuration name="Socket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiment_06_02.Socket" />
       <module name="First" />
-      <option name="PROGRAM_PARAMETERS" value="1 2 3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Experiment_04.*" />
+          <option name="PATTERN" value="Experiment_06_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,16 +155,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main(3)" />
+      <item itemvalue="Applet.HelloWorld" />
+      <item itemvalue="Application.Number" />
+      <item itemvalue="Application.Socket" />
+      <item itemvalue="Application.MyServer" />
+      <item itemvalue="Application.MyClient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main(3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MyClient" />
+        <item itemvalue="Application.MyServer" />
+        <item itemvalue="Application.Socket" />
+        <item itemvalue="Application.Number" />
+        <item itemvalue="Applet.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +182,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568615280190</updated>
       <workItem from="1568615286592" duration="4543000" />
-      <workItem from="1568620066108" duration="7108000" />
+      <workItem from="1568620066108" duration="7667000" />
+      <workItem from="1569825343486" duration="12668000" />
+      <workItem from="1570861989757" duration="6691000" />
+      <workItem from="1570868939411" duration="1780000" />
+      <workItem from="1570871560809" duration="1121000" />
+      <workItem from="1570872960160" duration="96000" />
+      <workItem from="1571034829749" duration="9583000" />
+      <workItem from="1571053062927" duration="3231000" />
     </task>
     <servers />
   </component>
@@ -156,7 +201,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
